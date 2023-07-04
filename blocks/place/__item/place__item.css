@@ -1,0 +1,22 @@
+.place__item {
+    display: grid;
+    max-width: 984px;
+    grid-template-columns: 1fr;
+    gap: 32px;
+    overflow: hidden;
+    
+}
+
+@media screen and (min-width: 768px){
+    .place__item {
+        grid-template-columns: 1fr 1fr;
+        column-gap: 28px;
+        row-gap: 48px;
+    }
+}
+
+@media screen and (min-width: 1280px){
+    .place__item {
+        column-gap: 40px;
+    }
+}

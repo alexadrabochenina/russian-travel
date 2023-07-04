@@ -1,0 +1,12 @@
+.place__text {
+    display: flex;
+    flex-direction: column;
+    gap: 25px;
+    margin: 0 16px 0 16px;
+}
+
+@media screen and (min-width: 786px){
+    .place__text {
+        margin: 0;
+    }
+}

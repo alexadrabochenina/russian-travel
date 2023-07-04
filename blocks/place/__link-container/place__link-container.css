@@ -1,0 +1,12 @@
+.place__link-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    margin: 0 16px 0 16px;
+}
+
+@media screen and (min-width: 786px){
+    .place__link-container {
+        margin: 0;
+    }
+}
