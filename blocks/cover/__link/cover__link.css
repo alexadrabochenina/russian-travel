@@ -1,7 +1,9 @@
-.cover__text {
+.cover__link {
     position: absolute;
     height: 100%;
     width: 100%;
+    text-decoration: none;
+    color: #ffffff;
     display: flex;
     flex-direction: column;
     align-items: center;

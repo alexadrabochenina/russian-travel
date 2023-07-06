@@ -3,7 +3,7 @@
     margin: 16px 0 0 0;
     text-align: center;
     z-index: 1;
-    font-family: Inter, Arial, Helvetica, sans-serif;
+    font-family: Inter, sans-serif;
     font-weight: 400;
     font-size: 14px;
     line-height: 16px;
@@ -14,5 +14,6 @@
         font-size: 18px;
         line-height: 22px;
         margin: 32px 0 0 0;
+        width: 360px;
     }
 }

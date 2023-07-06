@@ -9,14 +9,21 @@
 
 @media screen and (min-width: 768px){
     .place__item {
-        grid-template-columns: 1fr 1fr;
+        grid-template-columns: 340px 1fr;
         column-gap: 28px;
         row-gap: 48px;
     }
 }
 
+@media screen and (min-width: 1024px){
+    .place__item {
+        grid-template-columns: 440px 1fr;
+    }
+}
+
 @media screen and (min-width: 1280px){
     .place__item {
+        grid-template-columns: 460px 1fr;
         column-gap: 40px;
     }
 }
