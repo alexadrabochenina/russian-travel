@@ -1,6 +1,6 @@
 ## Путешествие по России
 
-<img src="./assets/readme/Russian%20trevel.jpg">
+<img src="./assets/readme/russian-trevel.jpg">
 
 Второй большой проект на платформе Яндекс Практикум.
 
