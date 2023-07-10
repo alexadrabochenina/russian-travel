@@ -5,7 +5,7 @@
     margin: 0 16px 0 16px;
 }
 
-@media screen and (min-width: 786px){
+@media screen and (min-width: 768px){
     .place__link-container {
         margin: 0;
     }

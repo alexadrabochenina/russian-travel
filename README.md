@@ -3,6 +3,7 @@
 <img src="./assets/readme/russian-trevel.jpg">
 
 Второй большой проект на платформе Яндекс Практикум.
+https://alexadrabochenina.github.io/russian-travel/
 
 Используемые технологии:
 * Дизайн сделан на основе макетов в Figma https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-%2B-mobile?type=design&node-id=62863-634&mode=design&t=hOU4QhdB2vIOEiN1-0;

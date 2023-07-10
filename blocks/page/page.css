@@ -1,6 +1,9 @@
 .page {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
   min-width: 320px;
-  overflow: scroll;
+  font-family: 'Inter', sans-serif;
   margin: 0 auto;
   padding: 16px 0 24px 0;
   background-color: #2A2C2F;
