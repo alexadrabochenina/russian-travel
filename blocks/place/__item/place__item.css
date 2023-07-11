@@ -3,8 +3,6 @@
     max-width: 984px;
     grid-template-columns: 1fr;
     gap: 32px;
-    overflow: hidden;
-    
 }
 
 @media screen and (min-width: 768px){
